@@ -42,9 +42,7 @@ evidence procedure or a copy the user supplies.
 ## Use
 
 See [SKILL.md](skills/singapore-pdpa-assessment/SKILL.md). Install by copying
-`skills/singapore-pdpa-assessment` into `.claude/skills/` or `.agents/skills/`, or with the
-[legal engineering toolkit](https://github.com/kevanwee/legal-engineering-manifesto) launcher,
-which binds it to the `review@1` contract.
+`skills/singapore-pdpa-assessment` into `.claude/skills/` or `.agents/skills/`.
 
 ## Status
 
