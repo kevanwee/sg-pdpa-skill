@@ -1,0 +1,3 @@
+interface:
+  display_name: "Singapore PDPA assessment"
+  short_description: "Assess activities against the PDPA obligation by obligation, from retrieved provision text"
